@@ -12,6 +12,10 @@ Small, quick projects for learning and portfolio building.
 
 - Validate card numbers using the Luhn library.
 
+## Websites and APIs Keeper
+
+- Monitors endpoints and URLs, storing the status code of the requests.
+
 ### WebScraper
 
 - Web scraping, extracting data from websites and saving to JSON.
